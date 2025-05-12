@@ -1,12 +1,18 @@
-# React + Vite
+# Ultimate PDF Compressor 📄
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A free, fast, and powerful PDF compression tool built with React. Compress your PDF files instantly with no quality loss!
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Compress PDFs up to 90% smaller
+- No registration required
+- Runs entirely in the browser – private & secure
+- Beautiful modern UI
 
-## Expanding the ESLint configuration
+## 🌐 Try It Out
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Live Demo](https://your-username.github.io/pdf-compressor/ )
+
+## 🛠️ Want to Contribute?
+
+Feel free to open issues or submit pull requests!
