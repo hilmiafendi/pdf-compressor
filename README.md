@@ -11,7 +11,7 @@ A free, fast, and powerful PDF compression tool built with React. Compress your 
 
 ## 🌐 Try It Out
 
-👉 [Live Demo](https://your-username.github.io/pdf-compressor/ )
+👉 [Live Demo](https://hilmiafendi.github.io/pdf-compressor/ )
 
 ## 🛠️ Want to Contribute?
 
